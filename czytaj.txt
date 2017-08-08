@@ -1,0 +1,3 @@
+Gra Arkanoid na Androida.
+
+Jeden poziom, biblioteka libGdx
